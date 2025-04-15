@@ -23,3 +23,19 @@ An interactive sorting algorithm visualizer built with **React**, **Tailwind CSS
    ```bash
    git clone https://github.com/yourusername/sorting-visualizer.git
    cd sorting-visualizer
+
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Start the development server**
+   ```bash
+   npm start
+
+Open http://localhost:3000 in your browser.
+
+---
+
+## 🧑🏻‍💻 Author
+Made with ❤️ by Abhyudai Shrivastava!
+
