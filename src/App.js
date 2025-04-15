@@ -1,23 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React from 'react';
+import SortingVisualizer from './components/SortingVisualizer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <h1 className="text-center text-4xl mt-8 mb-4">Sorting Visualizer</h1> */}
+      <SortingVisualizer />
     </div>
   );
 }
