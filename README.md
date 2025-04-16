@@ -3,7 +3,7 @@
 An interactive sorting algorithm visualizer built with **React**, **Tailwind CSS**, and **Framer Motion**. This project allows users to visualize how different sorting algorithms work, with smooth animations and real-time customization.
 
 ---
-## 📸 Demo
+## 📸 Screenshot
 
 ![Screenshot](public/screenshot.png)
 ---
